@@ -901,7 +901,7 @@ const BulkReceiptGenerator: React.FC<BulkReceiptGeneratorProps> = ({
   open, 
   onOpenChange, 
   students,
-  institutionName = "Namah Educational Institute"
+  institutionName = "MKS Educational Institute"
 }) => {
   const [selectedMonth, setSelectedMonth] = useState<NepaliMonth>(getCurrentNepaliMonth());
   const [selectedYear, setSelectedYear] = useState<number>(getCurrentNepaliYear());
