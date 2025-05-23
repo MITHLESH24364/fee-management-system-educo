@@ -13,7 +13,7 @@ A fully responsive and easy-to-use fee management system designed specifically f
   * Add, view, update, and deactivate student profiles.
 
 * 📆 **Monthly Billing**
-  * Generate monthly bills for each student.
+  * Generate monthly bills for each student (Can be generated in Bulk for all student at once).
   * Automatically carry forward partial or unpaid amounts to the next month.
   * Print payment receipts.
 
