@@ -3,6 +3,9 @@
 A fully responsive and easy-to-use fee management system designed specifically for small educational institutes. This system helps streamline student enrollment, monthly billing, payment tracking (full or partial), and reporting — all in one place.
 
 ---
+## Live Demo
+* https://fee.mithleshsingh.com.np/
+
 
 ## 🚀 Features
 
