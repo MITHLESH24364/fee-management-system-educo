@@ -36,8 +36,8 @@ A fully responsive and easy-to-use fee management system designed specifically f
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML, CSS (Responsive Design)
-* **Backend:** PHP
-* **Database:** MySQL
-* **Styling:** Pure CSS (Tailwind/Bootstrap optional)
+* **Backend:** Superbase
+* **Database:** Superbase
+* **Styling:** Pure CSS (Tailwind & Bootstrap)
 
 ---
